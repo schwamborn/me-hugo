@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/schwamborn/schwamborn.github.io.git
