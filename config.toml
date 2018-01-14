@@ -3,8 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://schwamborn.github.io/"
-#baseurl = "https://matthias.schwamborn.me/"
+#baseurl = "https://schwamborn.github.io/"
+baseurl = "http://matthias.schwamborn.me/"
 
 # Title of your site
 title = "Matthias Schwamborn"
@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
