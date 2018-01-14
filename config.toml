@@ -60,7 +60,9 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  vcard = "schwamborn"  # Specify a vCard file (*.vcf file in `static/files/` folder).
   email = "schwamborn@uos.de"
+  pgp_key = "0xA5F9F12F"  # Specify a PGP public key file (*.asc file in `static/files/` folder).
   address = "University of Osnabrück, Institute of Computer Science, Office 50/407, Wachsbleiche 27, 49090 Osnabrück, Germany"
   office_hours = ""
   phone = "+49-541-969-7167"
