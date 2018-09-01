@@ -19,6 +19,7 @@ Since 2010, I have been a reviewer for the following scientific conferences and 
 
 - Elsevier Computer Networks
 - Springer Wireless Networks
+- 19th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2018)
 - 13th International Conference on Distributed Computing in Sensor Systems (DCOSS 2017)
 - IFIP Networking 2016 Conference (NETWORKING 2016)
 - 2016 IEEE International Conference on Communications - Selected Areas in Communications Symposium Internet of Things (ICC 2016 SAC IoT)

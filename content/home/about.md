@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-01-03T00:00:00Z"
+date = "2018-08-27T00:00:00Z"
 
 # Order that this section will appear in.
 weight = 10
@@ -12,7 +12,8 @@ weight = 10
   interests = [
     "Distributed Systems",
     "Performance Evaluation",
-    "Data Analysis"
+    "Data Analysis",
+    "Transportation Systems"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,5 +31,5 @@ weight = 10
 
 # Biography
 
-Matthias Schwamborn is a postdoctoral researcher with the Distributed Systems group of the University of Osnabrück, Germany. He received his graduate diploma in computer science from the University of Bonn, Germany, in 2009 and continued as a PhD student and research assistant with the Communication Systems group of the University of Bonn. Since April 2012, he is with the Distributed Systems group of the University of Osnabrück, where he received his doctoral degree in 2017. His research interests include mobile and wireless networks, especially mobility modeling and simulative performance evaluation.
+Matthias Schwamborn is a postdoctoral researcher with the Institute of Transportation Systems of the German Aerospace Center (DLR). He received his graduate diploma in computer science from the University of Bonn, Germany, in 2009 and continued as a PhD student and research assistant with the Communication Systems group of the University of Bonn. From 2012 to 2018, he was with the Distributed Systems group of the University of Osnabrück, where he received his doctoral degree in 2017. Since August 2018, he is with the Institute of Transportation Systems of the German Aerospace Center (DLR). His research interests include mobile networks and transportation systems, especially mobility modeling and simulative performance evaluation.
 

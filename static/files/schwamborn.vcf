@@ -1,13 +1,13 @@
 begin:vcard
 fn:Matthias Schwamborn
 n:Schwamborn;Matthias
-org:University of Osnabrück;Institute of Computer Science
-adr;quoted-printable:Wachsbleiche 27;;University of Osnabrück, Institute of Computer Science;Osnabrück;NI;49090;Germany
-email;internet:schwamborn@uos.de
+org:German Aerospace Center (DLR);Institute of Transportation Systems
+adr;quoted-printable:Rutherfordstr. 2;;German Aerospace Center (DLR), Institute of Transportation Systems;Berlin;BE;12489;Germany
+email;internet:matthias.schwamborn@dlr.de
 title:Postdoctoral Researcher
-tel;work:+49-541-969-7167
-tel;fax:+49-541-969-2799
+tel;work:+49-30-67055-8014
+tel;fax:
 x-mozilla-html:FALSE
-url:https://sys.cs.uos.de/schwamborn
+url:https://www.dlr.de/ts/en
 version:2.1
 end:vcard
