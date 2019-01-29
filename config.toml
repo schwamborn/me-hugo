@@ -235,17 +235,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "dblp"
     icon_pack = "ai"
-    link = "http://dblp.uni-trier.de/pers/hd/s/Schwamborn:Matthias"
+    link = "https://dblp.uni-trier.de/pers/hd/s/Schwamborn:Matthias"
 
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0002-7343-4243"
 
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fa"
-#    link = "https://github.com/schwamborn"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/schwamborn"
 
 
 # Navigation Links
