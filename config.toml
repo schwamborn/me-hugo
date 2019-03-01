@@ -11,7 +11,7 @@ title = "Matthias Schwamborn"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Matthias Schwamborn"
+copyright = "&copy; 2018-19 Matthias Schwamborn"
 
 theme = "academic"
 enableEmoji = true
@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   vcard = "schwamborn"  # Specify a vCard file (*.vcf file in `static/files/` folder).
-  email = "matthias.schwamborn@dlr.de"
+  email = "matthias-DOT-schwamborn-AT-dlr-DOT-de"
   pgp_key = "0xA5F9F12F"  # Specify a PGP public key file (*.asc file in `static/files/` folder).
   address = "Institute of Transportation Systems, German Aerospace Center (DLR), Rutherfordstr. 2, 12489 Berlin, Germany"
   office_hours = ""
@@ -215,7 +215,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:matthias.schwamborn@dlr.de"
+    link = "mailto:matthias-DOT-schwamborn-AT-dlr-DOT-de"
 
   [[params.social]]
     icon = "linkedin"
