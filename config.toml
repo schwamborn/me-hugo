@@ -212,10 +212,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:matthias-DOT-schwamborn-AT-dlr-DOT-de"
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:matthias-DOT-schwamborn-AT-dlr-DOT-de"
 
   [[params.social]]
     icon = "linkedin"
@@ -226,6 +226,11 @@ defaultContentLanguageInSubdir = false
     icon = "xing"
     icon_pack = "fa"
     link = "https://www.xing.com/profile/Matthias_Schwamborn4"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Matthias_Schwamborn"
 
   [[params.social]]
     icon = "google-scholar"
