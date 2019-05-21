@@ -19,6 +19,7 @@ Since 2010, I have been a reviewer for the following scientific conferences and 
 
 - Elsevier Computer Networks
 - Springer Wireless Networks
+- 2019 SUMO User Conference - Simulating Connected Urban Mobility
 - 19th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2018)
 - 13th International Conference on Distributed Computing in Sensor Systems (DCOSS 2017)
 - IFIP Networking 2016 Conference (NETWORKING 2016)
